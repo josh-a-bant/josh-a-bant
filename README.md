@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Jashobant Besra.
 #- 👀 I’m interested in Java.
-- 🌱 I’m currently learning servlet.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on cool open-source projects.
 
 
